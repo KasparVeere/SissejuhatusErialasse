@@ -1,0 +1,38 @@
+/* style.css */
+
+/* Üldised põhistiilid */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Põhipealkirja stiil */
+h1 {
+    font-size: 3em;
+    color: #4a90e2;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Lingi stiil */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Pildi reeglid */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Võrdsete vahedega konteiner */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
