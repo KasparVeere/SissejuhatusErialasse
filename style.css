@@ -47,6 +47,14 @@ img {
     margin: 10px;
 }
 
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    border: 1px solid #ddd;
+}
+
 /* Võrdsete vahedega konteiner */
 .container {
     max-width: 1200px;
