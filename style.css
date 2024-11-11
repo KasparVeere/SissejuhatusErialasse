@@ -41,6 +41,10 @@ a {
 img {
     max-width: 100%;
     height: auto;
+    border: 5px solid #4a90e2;
+    border-radius: 10 px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    margin: 10px;
 }
 
 /* Võrdsete vahedega konteiner */
